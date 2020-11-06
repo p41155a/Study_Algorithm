@@ -8,7 +8,7 @@
 import Foundation
 
 var num = Int(readLine()!)!
-var Dp = [Int](repeating: 0, count: 100001)
+var Dp = [Int](repeating: 0, count: num+1)
 
 for i in 2..<num+1 {
     Dp[i] = Dp[i-1] + 1
