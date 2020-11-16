@@ -25,4 +25,4 @@
 |9095|1,2,3 더하기|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%AE%E1%86%AB/9095/9095/main.swift)|[출처](https://www.acmicpc.net/problem/9095)|DP||
 |11057|오르막 수|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%AE%E1%86%AB/11057/11057/main.swift)|[출처](https://www.acmicpc.net/problem/11057)|DP|(c++, python, swift 비교)|
 |1260|DFS와 BFS|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%AE%E1%86%AB/1260/1260/main.swift)|[출처](https://www.acmicpc.net/problem/1260)|BFS DFS 그래프||
-
+|10844|쉬운 계단 수|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%AE%E1%86%AB/10844/10844/main.swift)|[출처](https://www.acmicpc.net/problem/10844)|DP||
