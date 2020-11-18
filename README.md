@@ -28,3 +28,4 @@
 |1260|DFS와 BFS|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%AE%E1%86%AB/1260/1260/main.swift)|[출처](https://www.acmicpc.net/problem/1260)|BFS DFS 그래프||
 |11724|연결 요소의 개수|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%AE%E1%86%AB/11724/11724/main.swift)|[출처](https://www.acmicpc.net/problem/11724)|BFS DFS 그래프|[문제풀이](https://blog.naver.com/p41155a/222146656014)|
 |10451|순열 사이클|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%AE%E1%86%AB/10451/10451/main.swift)|[출처](https://www.acmicpc.net/problem/10451)|BFS DFS 그래프|[문제풀이](https://blog.naver.com/p41155a/222146656014)|
+|2331|순열 사이클|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%AE%E1%86%AB/2331/2331/main.swift)|[출처](https://www.acmicpc.net/problem/2331)|extension 연습(pow, custom)||
