@@ -32,3 +32,4 @@
 |1654|랜선 자르기|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%AE%E1%86%AB/1654/1654/main.swift)|[출처](https://www.acmicpc.net/problem/1654)|이분탐색||
 |2805|나무 자르기|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%AE%E1%86%AB/2805/2805/main.swift)|[출처](https://www.acmicpc.net/problem/2805)|이분탐색|[문제풀이](https://youjean.tistory.com/36) , c++도 첨부|
 |11728|배열 합치기|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%AE%E1%86%AB/11728/11728/main.swift)|[출처](https://www.acmicpc.net/problem/11728)|분할정복|c++, swift|
+|2630|색종이 만들기|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%AE%E1%86%AB/2630/2630/main.swift)|[출처](https://www.acmicpc.net/problem/2630)|분할정복||
