@@ -4,7 +4,7 @@
 
 |문제이름|소스|출처|사용알고리즘|풀이블로그|
 |:---|:---:|:---:|:---|:---|
-||||||
+|오픈 채팅방|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/kakao2019/openChat.playground/Contents.swift)|[출처](https://programmers.co.kr/learn/courses/30/lessons/42888)|||
 
 <br/><br/>
 
