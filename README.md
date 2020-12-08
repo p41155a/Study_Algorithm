@@ -5,6 +5,8 @@
 |문제이름|소스|출처|사용알고리즘|풀이블로그|
 |:---|:---:|:---:|:---|:---|
 |오픈 채팅방|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/kakao2019/openChat.playground/Contents.swift)|[출처](https://programmers.co.kr/learn/courses/30/lessons/42888)|||
+|문자열 압축|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/kakao2020/%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%A7%E1%86%AF%E1%84%8B%E1%85%A1%E1%86%B8%E1%84%8E%E1%85%AE%E1%86%A8.playground/Contents.swift)|[출처](https://programmers.co.kr/learn/courses/30/lessons/60057)|||
+|비밀지도|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/kakao2018/%E1%84%87%E1%85%B5%E1%84%86%E1%85%B5%E1%86%AF%E1%84%8C%E1%85%B5%E1%84%83%E1%85%A9.playground/Contents.swift)|[출처](https://programmers.co.kr/learn/courses/30/lessons/17681)|||
 
 <br/><br/>
 
