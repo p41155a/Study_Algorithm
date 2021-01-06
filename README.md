@@ -2,19 +2,22 @@
 
 > ## 카카오
 
-|문제이름|소스|출처|사용알고리즘|풀이블로그|
-|:---|:---:|:---:|:---|:---|
-|오픈 채팅방|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/kakao2019/openChat.playground/Contents.swift)|[출처](https://programmers.co.kr/learn/courses/30/lessons/42888)|||
-|문자열 압축|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/kakao2020/%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%A7%E1%86%AF%E1%84%8B%E1%85%A1%E1%86%B8%E1%84%8E%E1%85%AE%E1%86%A8.playground/Contents.swift)|[출처](https://programmers.co.kr/learn/courses/30/lessons/60057)|||
-|비밀지도|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/kakao2018/%E1%84%87%E1%85%B5%E1%84%86%E1%85%B5%E1%86%AF%E1%84%8C%E1%85%B5%E1%84%83%E1%85%A9.playground/Contents.swift)|[출처](https://programmers.co.kr/learn/courses/30/lessons/17681)|||
+|문제이름|소스|출처|사용알고리즘|풀이블로그|단계|
+|:---|:---:|:---:|:---|:---|:---|
+|오픈 채팅방|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/kakao2019/openChat.playground/Contents.swift)|[출처](https://programmers.co.kr/learn/courses/30/lessons/42888)|||2단계|
+|문자열 압축|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/kakao2020/%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%A7%E1%86%AF%E1%84%8B%E1%85%A1%E1%86%B8%E1%84%8E%E1%85%AE%E1%86%A8.playground/Contents.swift)|[출처](https://programmers.co.kr/learn/courses/30/lessons/60057)|||2단계|
+|비밀지도|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/kakao2018/%E1%84%87%E1%85%B5%E1%84%86%E1%85%B5%E1%86%AF%E1%84%8C%E1%85%B5%E1%84%83%E1%85%A9.playground/Contents.swift)|[출처](https://programmers.co.kr/learn/courses/30/lessons/17681)|||2단계|
+|실패율|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/kakao2019/%E1%84%89%E1%85%B5%E1%86%AF%E1%84%91%E1%85%A2%E1%84%8B%E1%85%B2%E1%86%AF.playground/Contents.swift)|[출처](https://programmers.co.kr/learn/courses/30/lessons/42889)||[풀이](https://blog.naver.com/p41155a/222058642212)|2단계|
+|후보키|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/kakao2019/%E1%84%92%E1%85%AE%E1%84%87%E1%85%A9%E1%84%8F%E1%85%B5.playground/Contents.swift)|[출처](https://programmers.co.kr/learn/courses/30/lessons/42890)|||2단계|
+|괄호변환|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/kakao2020/%E1%84%80%E1%85%AA%E1%86%AF%E1%84%92%E1%85%A9%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%92%E1%85%AA%E1%86%AB.playground/Contents.swift)|[출처](https://programmers.co.kr/learn/courses/30/lessons/60058)|||2단계|
 
 <br/><br/>
 
 > ## 프로그래머스  
 
-|문제이름|소스|출처|사용알고리즘|풀이블로그|
-|:---|:---:|:---:|:---|:---|
-||||||
+|문제이름|소스|출처|사용알고리즘|풀이블로그|단계|
+|:---|:---:|:---:|:---|:---|:---|
+|||||||
 
 <br/><br/>
 
