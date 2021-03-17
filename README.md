@@ -11,6 +11,7 @@
 |후보키|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/kakao2019/%E1%84%92%E1%85%AE%E1%84%87%E1%85%A9%E1%84%8F%E1%85%B5.playground/Contents.swift)|[출처](https://programmers.co.kr/learn/courses/30/lessons/42890)|||2단계|2019|
 |괄호변환|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/kakao2020/%E1%84%80%E1%85%AA%E1%86%AF%E1%84%92%E1%85%A9%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%92%E1%85%AA%E1%86%AB.playground/Contents.swift)|[출처](https://programmers.co.kr/learn/courses/30/lessons/60058)|||2단계|2020|
 |아아디추천|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/kakao2021/%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B5%E1%84%8E%E1%85%AE%E1%84%8E%E1%85%A5%E1%86%AB.playground/Contents.swift)|[출처](https://programmers.co.kr/learn/courses/30/lessons/72410)|||1단계|2021|
+|메뉴리뉴얼|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/kakao2021/%E1%84%86%E1%85%A6%E1%84%82%E1%85%B2%E1%84%85%E1%85%B5%E1%84%82%E1%85%B2%E1%84%8B%E1%85%A5%E1%86%AF.playground/Contents.swift)|[출처](https://programmers.co.kr/learn/courses/30/lessons/72411)|||2단계|2021|
 
 <br/><br/>
 
