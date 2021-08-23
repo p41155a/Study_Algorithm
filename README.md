@@ -19,7 +19,7 @@
 
 |문제이름|소스|출처|사용알고리즘|풀이블로그|단계|
 |:---|:---:|:---:|:---|:---|:---|
-|||||||
+|짝지어 제거하기|[소스](https://github.com/p41155a/Study_Algorithm/blob/main/programmers/twinRemove.playground/Contents.swift)|[출처](https://programmers.co.kr/learn/courses/30/lessons/12973)|||2단계|
 
 <br/><br/>
 
